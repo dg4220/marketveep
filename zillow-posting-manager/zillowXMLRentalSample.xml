@@ -1,0 +1,170 @@
+<Listings>
+	<Listing>
+		<Location>
+			<StreetAddress>125 Main St</StreetAddress>
+			<UnitNumber>14</UnitNumber>
+			<City>Seattle</City>
+			<State>WA</State>
+			<Zip>98117</Zip>
+			<Lat> 30.406706</Lat>
+			<Long> -86.905379</Long>
+			<DisplayAddress>Yes</DisplayAddress>
+		</Location>
+		<ListingDetails>
+			<Status>For Rent</Status>
+			<Price>1200</Price>
+			<ListingUrl>http://ForRentSite.com/listing1111</ListingUrl>
+			<MlsId>456790</MlsId>
+			<MlsName>NWMLS</MlsName>
+			<VirtualTourUrl> http://Site.com/VirTour123.wmv</VirtualTourUrl >
+			<ListingEmail> realtor18203892@trackingsystem.com</ListingEmail >
+			<AlwaysEmailAgent>1</AlwaysEmailAgent>
+		</ListingDetails>
+		<RentalDetails/>
+			<Availability>3/1/2010</Availability>
+			<LeaseTerm>OneYear</LeaseTerm>
+			<DepositFees>$30 Application Fee, First and Last Rent, $500 pet
+			deposit<DepositFees>
+			<UtilitiesIncluded>
+			<Water>Yes</Water>
+			<Sewage>Yes</Sewage>
+			<Garbage>Yes</Garbage>
+			<Electricity>No</Electricity>
+			<Gas>No</Gas>
+			<Internet>Yes</Internet>
+			<Cable>No</Cable>
+			<SatTV>No</SatTV>
+			</UtilitiesIncluded>
+			<PetsAllowed>
+			<NoPets></NoPets>
+			<Cats>Yes </Cats>
+			<SmallDogs>Yes</SmallDogs>
+			<LargeDogs>No</LargeDogs>
+			</PetsAllowed>
+		</RentalDetails/>
+		<BasicDetails>
+			<PropertyType>SingleFamily</PropertyType>
+			<Title>Wonderful Ballard Charmer</Title>
+			<Description>Great home on corner lot, with lots of charm &amp;
+			curb appeal.</Description>
+			<Bedrooms>Studio</Bedrooms>
+			<Bathrooms>1</Bathrooms>
+			<LivingArea>1234</LivingArea>
+			<LotSize>1.5</LotSize>
+			<YearBuilt>1955</YearBuilt>
+		</BasicDetails>
+		<Pictures>
+			<Picture>
+				<PictureUrl>http://BrokerSite.com/photo123.jpg</PictureUrl>
+				<Caption>Exterior View</Caption>
+			</Picture>
+			<Picture>
+				<PictureUrl>http://BrokerSite.com/photo456.jpg</PictureUrl>
+				<Caption>Master Suite</Caption>
+			</Picture>
+		</Pictures>
+		<Agent>
+			<FirstName>Alan</FirstName>
+			<LastName>Smith</LastName>
+			<EmailAddress>alan.smith@brokersite.com</EmailAddress>
+			<PictureUrl>http://BrokerSite.com/alanpic.jpg</PictureUrl>
+			<OfficeLineNumber>206-555-1212</OfficeLineNumber>
+			<MobilePhoneLineNumber>206-888-1234</MobilePhoneLineNumber>
+			<FaxLineNumber>206-555-1233</FaxLineNumber>
+		</Agent>
+		<Office>
+			<BrokerageName>#1 Broker</BrokerageName>
+			<BrokerPhone>201-422-4223</BrokerPhone>
+			<StreetAddress>999 Washington St</StreetAddress>
+			<UnitNumber>4600</UnitNumber>
+			<City>Seattle</City>
+			<State>WA</State>
+			<Zip>98101</Zip>
+		</Office>
+		<OpenHouses>
+		</OpenHouses>
+		<Neighborhood>
+			<Name>Ballard</Name>
+			<Description>Very friendly and walkable.</Description>
+		</Neighborhood>
+		<RichDetails>
+			<AdditionalFeatures>Gazebo, Vegetable Garden</AdditionalFeatures>
+			<Appliances>
+				<Appliance>Dishwasher</Appliance>
+				<Appliance>Refrigerator</Appliance>
+			</Appliances>
+			<ArchitectureStyle>Craftsman</ArchitectureStyle>
+			<Attic>Yes</Attic>
+			<Basement>Yes</Basement>
+			<CableReady>Yes</CableReady>
+			<CoolingSystems>
+				<CoolingSystem>Wall</CoolingSystem>
+			</CoolingSystems>
+			<Deck>Yes</Deck>
+			<DoublePaneWindows>Yes</DoublePaneWindows>
+			<ExteriorTypes>
+				<ExteriorType>Wood</ExteriorType>
+				<ExteriorType>Brick</ExteriorType>
+			</ExteriorTypes>
+			<Fireplace>Yes</Fireplace>
+			<FloorCoverings>
+				<FloorCovering>Hardwood</FloorCovering>
+				<FloorCovering>Carpet</FloorCovering>
+				<FloorCovering>Laminate</FloorCovering>
+			</FloorCoverings>
+			<Garden>Yes</Garden>
+			<HeatingFuels>
+				<HeatingFuel>Oil</HeatingFuel>
+			</HeatingFuels>
+			<HeatingSystems>
+				<HeatingSystem>ForcedAir</HeatingSystem>
+			</HeatingSystems>
+			<JettedBathTub>Yes</JettedBathTub>
+			<Lawn>Yes</Lawn>
+			<MotherInLaw>Yes</MotherInLaw>
+			<NumFloors>2</NumFloors>
+			<NumParkingSpaces>2</NumParkingSpaces>
+			<ParkingTypes>
+				<ParkingType>GarageAttached</ParkingType>
+				<ParkingType>OffStreet</ParkingType>
+			</ParkingTypes>
+			<Patio>Yes</Patio>
+			<Porch>Yes</Porch>
+			<RoofTypes>
+				<RoofType>ShakeShingle</RoofType>
+			</RoofTypes>
+			<RoomCount>11</RoomCount>
+			<Rooms>
+				<Room>DiningRoom</Room>
+				<Room>FamilyRoom</Room>
+				<Room>MasterBath</Room>
+				<Room>Office</Room>
+				<Room>Pantry</Room>
+			</Rooms>
+			<SecuritySystem>Yes</SecuritySystem>
+			<Skylight>Yes</Skylight>
+			<SprinklerSystem>Yes</SprinklerSystem>
+			<ViewTypes>
+				<ViewType>Mountain</ViewType>
+				<ViewType>Water</ViewType>
+			</ViewTypes>
+			<Waterfront>Yes</Waterfront>
+			<WhatOwnerLoves>View of sunset in the evening</WhatOwnerLoves>
+			<YearUpdated>1984</YearUpdated>
+			<FitnessCenter>Yes<FitnessCenter>
+			<BasketballCourt>No</BasketballCourt>
+			<TennisCourt>Yes</TennisCourt/>
+			<NearTransportation>Yes</NearTransportation>
+			<ControlledAccess>Yes</ControlledAccess>
+			<Over55ActiveCommunity>No</Over55ActiveCommunity>
+			<AssistedLivingCommunity>No</AssistedLivingCommunity>
+			<Storage>Yes</Storage>
+			<FencedYard>Yes</FencedYard>
+			<PropertyName>View Ridge Apartments</PropertyName>
+			<Furnished>No</Furnished>
+			<HighspeedInternet>No</HighspeedInternet>
+			<OnsiteLaundry>Yes</OnsiteLaundry>
+			<CableSatTV>No</CableSatTV>
+		</RichDetails>
+	</Listing>
+</Listings>
